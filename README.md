@@ -3,7 +3,7 @@ Estudo principalmente C#, HTML e CSS, o framework .NET, ASP.NET, e banco de dado
 
 Estou trabalhando na Foursys como estagiário no momento.
 
-................................................................................................................................................................................................................................................................................................................
+........................................................................................................................................................................................................................................................................................
 
 My name is Lucas Freitas Cordeiro, a Systems Analysis and Development student from Brazil at Centro Universitário Leonardo da Vinci - UNIASSELVI.
 I study mainly C#, HTML and CSS, the .NET framework, ASP.NET and SQL database. I do some game development as a hobby from time to time, using C# and game engines like Godot and Unity.
