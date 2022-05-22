@@ -9,3 +9,9 @@ My name is Lucas Freitas Cordeiro, a Systems Analysis and Development student fr
 I study mainly C#, HTML and CSS, the .NET framework, ASP.NET and SQL database. I do some game development as a hobby from time to time, using C# and game engines like Godot and Unity.
 
 I'm working at Foursys as an intern at the moment.
+
+......................................................................................................................................................................................................................................................................................
+
+E-mail: cordeirolf.bio@gmail.com
+GitHub: https://github.com/Bariand
+Currículo Lattes: http://lattes.cnpq.br/3322914019440460
