@@ -12,8 +12,8 @@ I'm working at Foursys as an intern at the moment.
 
 ......................................................................................................................................................................................................................................................................................
 
-E-mail: cordeirolf.bio@gmail.com
-GitHub: https://github.com/Bariand
-Linkedin: linkedin.com/in/lucasfreitascordeiro
-Currículo Lattes: http://lattes.cnpq.br/3322914019440460
+E-mail: cordeirolf.bio@gmail.com <br>
+GitHub: https://github.com/Bariand <br>
+Linkedin: linkedin.com/in/lucasfreitascordeiro <br>
+Currículo Lattes: http://lattes.cnpq.br/3322914019440460 <br>
 Portfolio: https://www.lucascordeiro.ml/
