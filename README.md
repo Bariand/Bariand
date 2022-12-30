@@ -16,3 +16,4 @@ E-mail: cordeirolf.bio@gmail.com
 GitHub: https://github.com/Bariand
 Linkedin: linkedin.com/in/lucasfreitascordeiro
 Currículo Lattes: http://lattes.cnpq.br/3322914019440460
+Portfolio: https://www.lucascordeiro.ml/
