@@ -1,12 +1,8 @@
-Meu nome é Lucas Freitas Cordeiro, Brasileiro, estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário Leonardo Da Vinci - UNIASSELVI.
-Estudo principalmente C# e ASP.NET CORE MVC, HTML, CSS e Javascript.
-
-Estou trabalhando na Foursys como estagiário no momento.
+Olá! Meu nome é Lucas Freitas Cordeiro, e sou estudante de Análise e Desenvolvimento de Sistemas pela UNIASSELVI. Atuo na área de desenvolvimento para web, tanto em back como front-end. Sou oriúndo de Pelotas, no estado do Rio Grande do Sul, Brasil. Sou biólogo, embora tenha mudado para a área de tecnologia em definitivo, e também sou um escritor amador. Tenho interesse em criar produtos que realmente agreguem valor à vida das pessoas. Tenho conhecimento principalmente em ASP.NET 6 MVC, C#, HTML, CSS e Javascript.
 
 ......................................................................................................................................................................................................................................................................................
 
-My name is Lucas Freitas Cordeiro, a Systems Analysis and Development student from Brazil at Centro Universitário Leonardo da Vinci - UNIASSELVI.
-I study mainly C# and ASP.NET CORE MVC, HTML, CSS and Javascript.
+Hello! My name is Lucas Freitas Cordeiro and I'm an Analysis and Systems Development student at UNIASSELVI University. I work as back and front-end developer and I'm a brazilian, from Pelotas, Rio Grande do Sul. I'm a biologist, having transitioned into the area of technology for good, and I'm also an amateur writer. I believe in creating products that add value to the lives of other people. I have knowledge mostly on ASP.NET 6 MVC, C#, HTML, CSS and Javascript.
 
 I'm working at Foursys as an intern at the moment.
 
