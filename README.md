@@ -1,4 +1,4 @@
-Trabalha como Técnico de Tecnologia da Informação - UFPEL
+Trabalha como Técnico de Tecnologia da Informação - UFPEL <br>
 Analista e Desenvolvedor de Sistemas - UNIASSELVI
 Estudante de Eletrônica - CPET
 Doutor em Ciência Fisiológicas - FURG
