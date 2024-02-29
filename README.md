@@ -1,8 +1,18 @@
-Olá! Meu nome é Lucas Freitas Cordeiro, e sou estudante de Análise e Desenvolvimento de Sistemas pela UNIASSELVI e Técnico em Eletrônica pelo CPET. Atuo na área de desenvolvimento para web, tanto em back como front-end, e estudo criação de jogos com Unity e Godot nas horas vagas. Sou oriúndo de Pelotas, no estado do Rio Grande do Sul, Brasil. Tenho interesse em criar produtos que realmente agreguem valor à vida das pessoas.
+Trabalha como Técnico de Tecnologia da Informação - UFPEL
+Analista e Desenvolvedor de Sistemas - UNIASSELVI
+Estudante de Eletrônica - CPET
+Doutor em Ciência Fisiológicas - FURG
+Mestre em Ciências Fisiológicas - FURG
+Bacharel em Ciências Biológicas  - UFPEL
 
 ......................................................................................................................................................................................................................................................................................
 
-Hello! My name is Lucas Freitas Cordeiro and I'm an Analysis and Systems Development student at UNIASSELVI University and also an Electronics student at CPET. I work as a back and front-end developer e I like learning game development with Unity and Godot at my spare time. I believe in creating products that add real value to the lives of other people.
+Works as an IT Technician - UFPEL
+Systems Analyst and Developer - UNIASSELVI
+Electronics Student - CPET
+Physiological Sciences - PhD - FURG
+Physiological Sciences - MSc - FURG
+Biological Sciences - Bacharelate - UFPEL
 
 ......................................................................................................................................................................................................................................................................................
 
