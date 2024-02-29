@@ -1,18 +1,18 @@
 Trabalha como Técnico de Tecnologia da Informação - UFPEL <br>
-Analista e Desenvolvedor de Sistemas - UNIASSELVI
-Estudante de Eletrônica - CPET
-Doutor em Ciência Fisiológicas - FURG
-Mestre em Ciências Fisiológicas - FURG
+Analista e Desenvolvedor de Sistemas - UNIASSELVI <br>
+Estudante de Eletrônica - CPET <br>
+Doutor em Ciência Fisiológicas - FURG <br>
+Mestre em Ciências Fisiológicas - FURG <br>
 Bacharel em Ciências Biológicas  - UFPEL
 
 ......................................................................................................................................................................................................................................................................................
 
-Works as an IT Technician - UFPEL
-Systems Analyst and Developer - UNIASSELVI
-Electronics Student - CPET
-Physiological Sciences - PhD - FURG
-Physiological Sciences - MSc - FURG
-Biological Sciences - Bacharelate - UFPEL
+Works as an IT Technician - UFPEL <br>
+Systems Analyst and Developer - UNIASSELVI <br>
+Electronics Student - CPET <br>
+Physiological Sciences - PhD - FURG <br>
+Physiological Sciences - MSc - FURG <br>
+Biological Sciences - Bacharelate - UFPEL <br>
 
 ......................................................................................................................................................................................................................................................................................
 
