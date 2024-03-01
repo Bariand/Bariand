@@ -7,7 +7,7 @@ Bacharel em Ciências Biológicas  - UFPEL
 
 ......................................................................................................................................................................................................................................................................................
 
-Works as an IT Technician - UFPEL <br>
+Works as an IT Analist - UFPEL <br>
 Systems Analyst and Developer - UNIASSELVI <br>
 Electronics Student - CPET <br>
 Physiological Sciences - PhD - FURG <br>
