@@ -1,4 +1,3 @@
-Trabalha como Analista de Tecnologia da Informação - UFPEL <br>
 Analista e Desenvolvedor de Sistemas - UNIASSELVI <br>
 Técnico em Eletrônica - CPET <br>
 Doutor em Ciência Fisiológicas - FURG <br>
@@ -7,7 +6,6 @@ Bacharel em Ciências Biológicas  - UFPEL
 
 ......................................................................................................................................................................................................................................................................................
 
-Works as an IT Analist - UFPEL <br>
 Systems Analyst and Developer - UNIASSELVI <br>
 Electronics Technician - CPET <br>
 Physiological Sciences - PhD - FURG <br>
